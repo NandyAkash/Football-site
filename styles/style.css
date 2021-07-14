@@ -123,6 +123,9 @@ header {
 .news-text {
   width: 50%;
 }
+.news-text p {
+  padding-right: 30px;
+}
 /* footer  */
 .footer {
   padding: 158px 0 63px 0px;

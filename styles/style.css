@@ -115,6 +115,7 @@ header {
 .news-img {
   text-align: center;
   width: 50%;
+  padding-bottom: 46px;
 }
 .news-img img {
   width: 80%;
@@ -252,6 +253,11 @@ header {
   .news-img img {
     width: 90%;
   }
+  .news-text {
+    width: 100%;
+    padding-bottom: 48px;
+    padding-left: 12%;
+  }
   /*----------------- 
     footer
   -------------------*/
@@ -324,6 +330,11 @@ header {
   }
   .news-img img {
     width: 90%;
+  }
+  .news-text {
+    width: 100%;
+    padding-bottom: 48px;
+    padding-left: 12%;
   }
   /*----------------- 
     footer
